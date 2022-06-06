@@ -1,7 +1,7 @@
 
 # A N G E L
 
-I wrote this simple credential flooder to run against servers hosting phishing scams.
+I wrote this simple tool to run against servers hosting phishing scams.
 
 
 
